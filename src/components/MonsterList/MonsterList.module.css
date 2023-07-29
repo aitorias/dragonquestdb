@@ -1,0 +1,45 @@
+.table {
+  border: 0;
+  border-collapse: collapse;
+  table-layout: auto;
+  width: 100%;
+}
+
+.table caption {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin: 2rem auto;
+}
+
+.table th {
+  border-top: 1px solid #dddddd;
+  height: 50px;
+  text-align: center;
+}
+
+.table td {
+  border-top: 1px solid #dddddd;
+  height: 50px;
+  text-align: center;
+}
+
+.paginator {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.highestValue {
+  background-color: #0fa958;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.lowestValue {
+  background-color: #f24e1e;
+  color: #ffffff;
+  font-weight: bold;
+}

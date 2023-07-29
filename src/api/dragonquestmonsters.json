@@ -1,0 +1,2155 @@
+[
+  {
+    "id": 1,
+    "name": "Slime",
+    "family": "Slime",
+    "rank": "F",
+    "level": 1,
+    "max_stats": {
+      "hp": 18,
+      "mp": 10,
+      "atk": 13,
+      "def": 5,
+      "agi": 8,
+      "wis": 13
+    },
+    "skills": [
+      {
+        "name": "Slimer"
+      },
+      {
+        "name": "Def I"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Critical Massacre"
+      },
+      {
+        "name": "Frizz Break"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Zam"
+      },
+      {
+        "name": "Weak vs Drain"
+      },
+      {
+        "name": "Weak vs Decel"
+      },
+      {
+        "name": "Half Zap"
+      },
+      {
+        "name": "Half Kafizzle"
+      },
+      {
+        "name": "Half Sag"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bubble Slime",
+    "family": "Slime",
+    "rank": "F",
+    "level": 1,
+    "max_stats": {
+      "hp": 29,
+      "mp": 8,
+      "atk": 17,
+      "def": 14,
+      "agi": 14,
+      "wis": 17
+    },
+    "skills": [
+      {
+        "name": "Slimer"
+      },
+      {
+        "name": "Agi I"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Poisonous"
+      },
+      {
+        "name": "Zam Break"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Zam",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Drain",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs 130",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Decel",
+        "type": "weak"
+      },
+      {
+        "name": "Half Zap",
+        "type": "half"
+      },
+      {
+        "name": "Half Kafizzle",
+        "type": "half"
+      },
+      {
+        "name": "Half Sag",
+        "type": "half"
+      },
+      {
+        "name": "Immune to Poison",
+        "type": "immune"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Swarm Troopers",
+    "family": "Nature",
+    "rank": "F",
+    "level": 1,
+    "max_stats": {
+      "hp": 24,
+      "mp": 7,
+      "atk": 14,
+      "def": 9,
+      "agi": 14,
+      "wis": 2
+    },
+    "skills": [
+      {
+        "name": "Woosh & Zap"
+      },
+      {
+        "name": "Agi I"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Dodger"
+      },
+      {
+        "name": "Hit Squad"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs FireBreath",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs 130",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Decel",
+        "type": "weak"
+      },
+      {
+        "name": "Weak Sizz",
+        "type": "weak"
+      },
+      {
+        "name": "Half Bang",
+        "type": "half"
+      },
+      {
+        "name": "Half Para",
+        "type": "half"
+      },
+      {
+        "name": "Half Dim",
+        "type": "half"
+      },
+      {
+        "name": "Immune to Woosh",
+        "type": "immune"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Ticking Timeburrm",
+    "family": "Material",
+    "rank": "F",
+    "level": 1,
+    "max_stats": {
+      "hp": 21,
+      "mp": 10,
+      "atk": 19,
+      "def": 10,
+      "agi": 8,
+      "wis": 13
+    },
+    "skills": [
+      {
+        "name": "Dynamite"
+      },
+      {
+        "name": "Agi I"
+      }
+    ],
+    "traits": [
+      {
+        "name": "T250 Master"
+      },
+      {
+        "name": "Occ"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Woosh",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Conf",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Sap",
+        "type": "weak"
+      },
+      {
+        "name": "Half Sleep",
+        "type": "half"
+      },
+      {
+        "name": "Half Sag",
+        "type": "half"
+      },
+      {
+        "name": "Half S253",
+        "type": "half"
+      },
+      {
+        "name": "Healed by Bang",
+        "type": "heal"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Stump Chump",
+    "family": "Undead",
+    "rank": "F",
+    "level": 2,
+    "max_stats": {
+      "hp": 25,
+      "mp": 8,
+      "atk": 21,
+      "def": 9,
+      "agi": 9,
+      "wis": 14
+    },
+    "skills": [
+      {
+        "name": "Ecology"
+      },
+      {
+        "name": "Def I"
+      },
+      {
+        "name": "Woosh Guard"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Hand-to-hand Seal"
+      },
+      {
+        "name": "Drain Magic Break"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Frizz",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Dazzle",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Dim",
+        "type": "weak"
+      },
+      {
+        "name": "Half Zam",
+        "type": "half"
+      },
+      {
+        "name": "Half Poison",
+        "type": "half"
+      },
+      {
+        "name": "Half Sap",
+        "type": "half"
+      },
+      {
+        "name": "Immune to Kafizzle",
+        "type": "immune"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Firespirit",
+    "family": "Undead",
+    "rank": "F",
+    "level": 1,
+    "max_stats": {
+      "hp": 20,
+      "mp": 24,
+      "atk": 10,
+      "def": 8,
+      "agi": 28,
+      "wis": 32
+    },
+    "skills": [
+      {
+        "name": "Frizz & Sizz"
+      },
+      {
+        "name": "Atk I"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Frizz Master"
+      },
+      {
+        "name": "Frizz Break"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Woosh",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Crack",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Zap",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Ice Breath",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Dazzle",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Dim",
+        "type": "weak"
+      },
+      {
+        "name": "Half Zam",
+        "type": "half"
+      },
+      {
+        "name": "Half Poison",
+        "type": "half"
+      },
+      {
+        "name": "Half Sap",
+        "type": "half"
+      },
+      {
+        "name": "Healed by Frizz",
+        "type": "heal"
+      },
+      {
+        "name": "Healed by Fire Breath",
+        "type": "heal"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Florajay",
+    "family": "Nature",
+    "rank": "F",
+    "level": 1,
+    "max_stats": {
+      "hp": 25,
+      "mp": 13,
+      "atk": 19,
+      "def": 14,
+      "agi": 17,
+      "wis": 21
+    },
+    "skills": [
+      {
+        "name": "Princess"
+      },
+      {
+        "name": "Agi I"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Sudden Agi"
+      },
+      {
+        "name": "Kafizzle Break"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs 130",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Decel",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Sizz",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs S253",
+        "type": "weak"
+      },
+      {
+        "name": "Half Bang",
+        "type": "half"
+      },
+      {
+        "name": "Half Para",
+        "type": "half"
+      },
+      {
+        "name": "Half Dim",
+        "type": "half"
+      },
+      {
+        "name": "Immune to Woosh",
+        "type": "immune"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "ArmyAnt",
+    "family": "Nature",
+    "rank": "F",
+    "level": 1,
+    "max_stats": {
+      "hp": 19,
+      "mp": 5,
+      "atk": 23,
+      "def": 15,
+      "agi": 15,
+      "wis": 10
+    },
+    "skills": [
+      {
+        "name": "G93"
+      },
+      {
+        "name": "Agi I"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Sudden DEF"
+      },
+      {
+        "name": "Hand-to-hand Seal"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Crack",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs 130",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Decel",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Sizz",
+        "type": "weak"
+      },
+      {
+        "name": "Half Bang",
+        "type": "half"
+      },
+      {
+        "name": "Half Para",
+        "type": "half"
+      },
+      {
+        "name": "Half Dim",
+        "type": "half"
+      },
+      {
+        "name": "Immune to Sap",
+        "type": "immune"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Dracky",
+    "family": "Demon",
+    "rank": "F",
+    "level": 1,
+    "max_stats": {
+      "hp": 20,
+      "mp": 5,
+      "atk": 23,
+      "def": 12,
+      "agi": 17,
+      "wis": 23
+    },
+    "skills": [
+      {
+        "name": "Black Fighter"
+      },
+      {
+        "name": "Agi I"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Dodger"
+      },
+      {
+        "name": "Woosh Break"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Zap",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Para",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Dim",
+        "type": "weak"
+      },
+      {
+        "name": "Half Crack",
+        "type": "half"
+      },
+      {
+        "name": "Half Conf",
+        "type": "half"
+      },
+      {
+        "name": "Half Decel",
+        "type": "half"
+      },
+      {
+        "name": "Immune to Kafizzle",
+        "type": "immune"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Demi Ghoul",
+    "family": "Undead",
+    "rank": "F",
+    "level": 1,
+    "max_stats": {
+      "hp": 19,
+      "mp": 5,
+      "atk": 31,
+      "def": 7,
+      "agi": 21,
+      "wis": 15
+    },
+    "skills": [
+      {
+        "name": "MP Recovery"
+      },
+      {
+        "name": "Wis I"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Sleep Touch"
+      },
+      {
+        "name": "Decelerate Break"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Frizz",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Dazzle",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Dim",
+        "type": "weak"
+      },
+      {
+        "name": "Half Zam",
+        "type": "half"
+      },
+      {
+        "name": "Half Poison",
+        "type": "half"
+      },
+      {
+        "name": "Half Sap",
+        "type": "half"
+      },
+      {
+        "name": "Immune to 130",
+        "type": "immune"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Winky",
+    "family": "Demon",
+    "rank": "F",
+    "level": 6,
+    "max_stats": {
+      "hp": 39,
+      "mp": 17,
+      "atk": 34,
+      "def": 21,
+      "agi": 21,
+      "wis": 28
+    },
+    "skills": [
+      {
+        "name": "G75"
+      },
+      {
+        "name": "Wis I"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Desperado"
+      },
+      {
+        "name": "Kafizzle Break"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Zap",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Para",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Dim",
+        "type": "weak"
+      },
+      {
+        "name": "Half Crack",
+        "type": "half"
+      },
+      {
+        "name": "Half Conf",
+        "type": "half"
+      },
+      {
+        "name": "Half Decel",
+        "type": "half"
+      },
+      {
+        "name": "Immune to Whack",
+        "type": "immune"
+      },
+      {
+        "name": "Immune to Dazzle",
+        "type": "immune"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Muddy Hand",
+    "family": "Undead",
+    "rank": "F",
+    "level": 1,
+    "max_stats": {
+      "hp": 23,
+      "mp": 5,
+      "atk": 17,
+      "def": 7,
+      "agi": 13,
+      "wis": 13
+    },
+    "skills": [
+      {
+        "name": "Rock Head"
+      },
+      {
+        "name": "Wis I"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Hand-to-hand Seal"
+      },
+      {
+        "name": "Slashing Seal Break"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Frizz",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Dazzle",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Dim",
+        "type": "weak"
+      },
+      {
+        "name": "Half Zam",
+        "type": "half"
+      },
+      {
+        "name": "Half Poison",
+        "type": "half"
+      },
+      {
+        "name": "Half Sap",
+        "type": "half"
+      },
+      {
+        "name": "Immune to S253",
+        "type": "immune"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Mud Mannequin",
+    "family": "Material",
+    "rank": "F",
+    "level": 1,
+    "max_stats": {
+      "hp": 21,
+      "mp": 6,
+      "atk": 16,
+      "def": 7,
+      "agi": 22,
+      "wis": 17
+    },
+    "skills": [
+      {
+        "name": "Dancers"
+      },
+      {
+        "name": "Wis I"
+      },
+      {
+        "name": "Dance Seal Guard"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Hand-to-hand Seal"
+      },
+      {
+        "name": "Slashing Seal Break"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Frizz",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Woosh",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Conf",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Zap",
+        "type": "weak"
+      },
+      {
+        "name": "Half Sleep",
+        "type": "half"
+      },
+      {
+        "name": "Half Sag",
+        "type": "half"
+      },
+      {
+        "name": "Half S253",
+        "type": "half"
+      },
+      {
+        "name": "Immune to Dazzle",
+        "type": "immune"
+      }
+    ]
+  },
+
+  {
+    "id": 14,
+    "name": "Tree Feller",
+    "family": "Demon",
+    "rank": "F",
+    "level": 2,
+    "max_stats": {
+      "hp": 29,
+      "mp": 14,
+      "atk": 25,
+      "def": 17,
+      "agi": 17,
+      "wis": 10
+    },
+    "skills": [
+      {
+        "name": "Crack and Sizz"
+      },
+      {
+        "name": "Def I"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Dodger"
+      },
+      {
+        "name": "Hit Squad"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Zap",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Para",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Dim",
+        "type": "weak"
+      },
+      {
+        "name": "Half Crack",
+        "type": "half"
+      },
+      {
+        "name": "Half Conf",
+        "type": "half"
+      },
+      {
+        "name": "Half Decel",
+        "type": "half"
+      },
+      {
+        "name": "Immune to Woosh",
+        "type": "immune"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Lips",
+    "family": "Demon",
+    "rank": "F",
+    "level": 1,
+    "max_stats": {
+      "hp": 31,
+      "mp": 7,
+      "atk": 15,
+      "def": 4,
+      "agi": 16,
+      "wis": 11
+    },
+    "skills": [
+      {
+        "name": "G76"
+      },
+      {
+        "name": "Wis I"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Confusion Break"
+      },
+      {
+        "name": "Sap Break"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Zap",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs 106",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Para",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Dim",
+        "type": "weak"
+      },
+      {
+        "name": "Half Crack",
+        "type": "half"
+      },
+      {
+        "name": "Half Conf",
+        "type": "half"
+      },
+      {
+        "name": "Half Decel",
+        "type": "half"
+      },
+      {
+        "name": "Immune to Drain",
+        "type": "immune"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Weaken Beakon",
+    "family": "Beast",
+    "rank": "F",
+    "level": 3,
+    "max_stats": {
+      "hp": 25,
+      "mp": 12,
+      "atk": 34,
+      "def": 14,
+      "agi": 17,
+      "wis": 12
+    },
+    "skills": [
+      {
+        "name": "Sizz & Zap"
+      },
+      {
+        "name": "Agi I"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Hit Squad"
+      },
+      {
+        "name": "Fool Break"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Crack",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Sleep",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Sag",
+        "type": "weak"
+      },
+      {
+        "name": "Half Frizz",
+        "type": "half"
+      },
+      {
+        "name": "Half 130",
+        "type": "half"
+      },
+      {
+        "name": "Immune to Band Dance",
+        "type": "immune"
+      },
+      {
+        "name": "Immune to Decel",
+        "type": "immune"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Hell Hornet",
+    "family": "Nature",
+    "rank": "F",
+    "level": 3,
+    "max_stats": {
+      "hp": 25,
+      "mp": 5,
+      "atk": 29,
+      "def": 13,
+      "agi": 19,
+      "wis": 12
+    },
+    "skills": [
+      {
+        "name": "G80"
+      },
+      {
+        "name": "Agi I"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Dodger"
+      },
+      {
+        "name": "Para Touch"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Frizz",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs 130",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Decel",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Sizz",
+        "type": "weak"
+      },
+      {
+        "name": "Half Bang",
+        "type": "half"
+      },
+      {
+        "name": "Half Dim",
+        "type": "half"
+      },
+      {
+        "name": "Immune to Poison",
+        "type": "immune"
+      },
+      {
+        "name": "Immune to Para",
+        "type": "immune"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Killerpillar",
+    "family": "Nature",
+    "rank": "F",
+    "level": 1,
+    "max_stats": {
+      "hp": 27,
+      "mp": 6,
+      "atk": 27,
+      "def": 12,
+      "agi": 16,
+      "wis": 10
+    },
+    "skills": [
+      {
+        "name": "Bang & Zam"
+      },
+      {
+        "name": "Wis I"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Desperado"
+      },
+      {
+        "name": "Poison Touch"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Crack",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs 130",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Sleep",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Decel",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Sizz",
+        "type": "weak"
+      },
+      {
+        "name": "Half Bang",
+        "type": "half"
+      },
+      {
+        "name": "Half Dim",
+        "type": "half"
+      },
+      {
+        "name": "Immune to Frizz",
+        "type": "immune"
+      },
+      {
+        "name": "Immune to Para",
+        "type": "immune"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Hyper Heyedra",
+    "family": "Undead",
+    "rank": "D",
+    "level": 10,
+    "max_stats": {
+      "hp": 136,
+      "mp": 11,
+      "atk": 44,
+      "def": 28,
+      "agi": 10,
+      "wis": 26
+    },
+    "skills": [
+      {
+        "name": "VS Breath"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Hit Squad"
+      },
+      {
+        "name": "Zam Break"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Frizz",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Dazzle",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Dim",
+        "type": "weak"
+      },
+      {
+        "name": "Half Zam",
+        "type": "half"
+      },
+      {
+        "name": "Half Poison",
+        "type": "half"
+      },
+      {
+        "name": "Half Sap",
+        "type": "half"
+      },
+      {
+        "name": "Immune to 106",
+        "type": "immune"
+      },
+      {
+        "name": "Immune to Band Dance",
+        "type": "immune"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Frog Face",
+    "family": "Demon",
+    "rank": "E",
+    "level": 5,
+    "max_stats": {
+      "hp": 33,
+      "mp": 10,
+      "atk": 33,
+      "def": 24,
+      "agi": 22,
+      "wis": 23
+    },
+    "skills": [
+      {
+        "name": "HP Recovery"
+      },
+      {
+        "name": "Def I"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Sudden Atk"
+      },
+      {
+        "name": "Whack Break"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Frizz",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Zap",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Para",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Dim",
+        "type": "weak"
+      },
+      {
+        "name": "Half Crack",
+        "type": "half"
+      },
+      {
+        "name": "Half Conf",
+        "type": "half"
+      },
+      {
+        "name": "Half Decel",
+        "type": "half"
+      },
+      {
+        "name": "Immune to Dazzle",
+        "type": "immune"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Mental Pitcher",
+    "family": "Nature",
+    "rank": "E",
+    "level": 5,
+    "max_stats": {
+      "hp": 36,
+      "mp": 5,
+      "atk": 35,
+      "def": 18,
+      "agi": 15,
+      "wis": 3
+    },
+    "skills": [
+      {
+        "name": "Frizz & Sizz"
+      },
+      {
+        "name": "Wis I"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Sizz Master"
+      },
+      {
+        "name": "Poison Touch"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Woosh",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs 130",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Decel",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Sizz",
+        "type": "weak"
+      },
+      {
+        "name": "Half Bang",
+        "type": "half"
+      },
+      {
+        "name": "Half Para",
+        "type": "half"
+      },
+      {
+        "name": "Half Dim",
+        "type": "half"
+      },
+      {
+        "name": "Immune to Dazzle",
+        "type": "immune"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Scissor Beetle",
+    "family": "Nature",
+    "rank": "F",
+    "level": 4,
+    "max_stats": {
+      "hp": 38,
+      "mp": 14,
+      "atk": 34,
+      "def": 36,
+      "agi": 30,
+      "wis": 14
+    },
+    "skills": [
+      {
+        "name": "G109"
+      },
+      {
+        "name": "Def I"
+      },
+      {
+        "name": "Frizz Guard"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Psycho"
+      },
+      {
+        "name": "Paralysis Break"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Frizz",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs 130",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Decel",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Sizz",
+        "type": "weak"
+      },
+      {
+        "name": "Half Bang",
+        "type": "half"
+      },
+      {
+        "name": "Half Para",
+        "type": "half"
+      },
+      {
+        "name": "Half Dim",
+        "type": "half"
+      },
+      {
+        "name": "Immune to Sleep",
+        "type": "immune"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Argon Lizard",
+    "family": "Dragon",
+    "rank": "F",
+    "level": 4,
+    "max_stats": {
+      "hp": 39,
+      "mp": 13,
+      "atk": 31,
+      "def": 27,
+      "agi": 33,
+      "wis": 13
+    },
+    "skills": [
+      {
+        "name": "Poison"
+      },
+      {
+        "name": "Def I"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Escape Artist"
+      },
+      {
+        "name": "Para Touch"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Posion",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Sap",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs S253",
+        "type": "weak"
+      },
+      {
+        "name": "Half Dazzle",
+        "type": "half"
+      },
+      {
+        "name": "Half Dim",
+        "type": "half"
+      },
+      {
+        "name": "Half Sizz",
+        "type": "half"
+      },
+      {
+        "name": "Immune to Para",
+        "type": "immune"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Head Hunter",
+    "family": "Demon",
+    "rank": "E",
+    "level": 6,
+    "max_stats": {
+      "hp": 53,
+      "mp": 7,
+      "atk": 46,
+      "def": 30,
+      "agi": 15,
+      "wis": 37
+    },
+    "skills": [
+      {
+        "name": "Berserker"
+      },
+      {
+        "name": "Atk I"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Metal Beater"
+      },
+      {
+        "name": "Whack Break"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Zap",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Para",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Sap",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Dim",
+        "type": "weak"
+      },
+      {
+        "name": "Half Crack",
+        "type": "half"
+      },
+      {
+        "name": "Half Conf",
+        "type": "half"
+      },
+      {
+        "name": "Half Decel",
+        "type": "half"
+      },
+      {
+        "name": "Immune to Whack",
+        "type": "immune"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Cheeky Tiki",
+    "family": "Material",
+    "rank": "F",
+    "level": 4,
+    "max_stats": {
+      "hp": 28,
+      "mp": 7,
+      "atk": 22,
+      "def": 26,
+      "agi": 19,
+      "wis": 33
+    },
+    "skills": [
+      {
+        "name": "G101"
+      },
+      {
+        "name": "Def I"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Sudden Break Wind"
+      },
+      {
+        "name": "Dazzle Break"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Woosh",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Crack",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Conf",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Sap",
+        "type": "weak"
+      },
+      {
+        "name": "Half Sleep",
+        "type": "half"
+      },
+      {
+        "name": "Half Sag",
+        "type": "half"
+      },
+      {
+        "name": "Half S253",
+        "type": "half"
+      },
+      {
+        "name": "Immune to Frizz",
+        "type": "immune"
+      },
+      {
+        "name": "Immune to Bang",
+        "type": "immune"
+      },
+      {
+        "name": "Immune to Sizz",
+        "type": "immune"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Butchoman",
+    "family": "Material",
+    "rank": "E",
+    "level": 6,
+    "max_stats": {
+      "hp": 44,
+      "mp": 15,
+      "atk": 42,
+      "def": 31,
+      "agi": 25,
+      "wis": 38
+    },
+    "skills": [
+      {
+        "name": "Bounty Hunter"
+      },
+      {
+        "name": "Atk I"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Occ"
+      },
+      {
+        "name": "Decelerate Break"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Woosh",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Conf",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Sap",
+        "type": "weak"
+      },
+      {
+        "name": "Half Sleep",
+        "type": "half"
+      },
+      {
+        "name": "Half Sag",
+        "type": "half"
+      },
+      {
+        "name": "Half S253",
+        "type": "half"
+      },
+      {
+        "name": "Immune to Crack",
+        "type": "immune"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Hammerhood",
+    "family": "Beast",
+    "rank": "F",
+    "level": 2,
+    "max_stats": {
+      "hp": 21,
+      "mp": 7,
+      "atk": 25,
+      "def": 11,
+      "agi": 11,
+      "wis": 9
+    },
+    "skills": [
+      {
+        "name": "Hunter"
+      },
+      {
+        "name": "Wis I"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Psycho"
+      },
+      {
+        "name": "Rabble Rouser"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Crack",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Sleep",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Sag",
+        "type": "weak"
+      },
+      {
+        "name": "Half Frizz",
+        "type": "half"
+      },
+      {
+        "name": "Half 130",
+        "type": "half"
+      },
+      {
+        "name": "Half Decel",
+        "type": "half"
+      },
+      {
+        "name": "Immune to Dazzle",
+        "type": "immune"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Heedoo Voodoo",
+    "family": "Demon",
+    "rank": "F",
+    "level": 6,
+    "max_stats": {
+      "hp": 37,
+      "mp": 15,
+      "atk": 37,
+      "def": 20,
+      "agi": 38,
+      "wis": 43
+    },
+    "skills": [
+      {
+        "name": "Inspire"
+      },
+      {
+        "name": "Wis I"
+      },
+      {
+        "name": "Zap Guard"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Counterstriker"
+      },
+      {
+        "name": "Dance Seal Break"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Zap",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Para",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Dim",
+        "type": "weak"
+      },
+      {
+        "name": "Half Crack",
+        "type": "half"
+      },
+      {
+        "name": "Half Conf",
+        "type": "half"
+      },
+      {
+        "name": "Immune to Decel",
+        "type": "immune"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Bantamweight",
+    "family": "Nature",
+    "rank": "E",
+    "level": 20,
+    "max_stats": {
+      "hp": 256,
+      "mp": 21,
+      "atk": 149,
+      "def": 29,
+      "agi": 107,
+      "wis": 42
+    },
+    "skills": [
+      {
+        "name": "Hunter"
+      },
+      {
+        "name": "Agi I"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Dodger"
+      },
+      {
+        "name": "Mega 1-2 Atk"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs 130",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Decel",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Sizz",
+        "type": "weak"
+      },
+      {
+        "name": "Half Bang",
+        "type": "half"
+      },
+      {
+        "name": "Half Whack",
+        "type": "half"
+      },
+      {
+        "name": "Half Conf",
+        "type": "half"
+      },
+      {
+        "name": "Half Dim",
+        "type": "half"
+      },
+      {
+        "name": "Immune to Woosh",
+        "type": "immune"
+      },
+      {
+        "name": "Immune to Para",
+        "type": "immune"
+      },
+      {
+        "name": "Immune to Sleep",
+        "type": "immune"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Sabrecat",
+    "family": "Nature",
+    "rank": "C",
+    "level": 18,
+    "max_stats": {
+      "hp": 98,
+      "mp": 13,
+      "atk": 89,
+      "def": 79,
+      "agi": 3,
+      "wis": 28
+    },
+    "skills": [
+      {
+        "name": "G64"
+      },
+      {
+        "name": "Agi I"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Early Bird"
+      },
+      {
+        "name": "Hit Squad"
+      },
+      {
+        "name": "Woosh Break"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs 130",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Sizz",
+        "type": "weak"
+      },
+      {
+        "name": "Half Bang",
+        "type": "half"
+      },
+      {
+        "name": "Half Whoosh",
+        "type": "half"
+      },
+      {
+        "name": "Half Para",
+        "type": "half"
+      },
+      {
+        "name": "Half Decel",
+        "type": "half"
+      },
+      {
+        "name": "Half Dim",
+        "type": "half"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Mortoad",
+    "family": "Beast",
+    "rank": "C",
+    "level": 20,
+    "max_stats": {
+      "hp": 256,
+      "mp": 21,
+      "atk": 192,
+      "def": 38,
+      "agi": 42,
+      "wis": 21
+    },
+    "skills": [
+      {
+        "name": "Bang & Woosh"
+      },
+      {
+        "name": "Wis I"
+      },
+      {
+        "name": "Poison Guard"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Hit Squad"
+      },
+      {
+        "name": "Mega 1-2 Atk"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Crack",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Sleep",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Sag",
+        "type": "weak"
+      },
+      {
+        "name": "Half Frizz",
+        "type": "half"
+      },
+      {
+        "name": "Half Whack",
+        "type": "half"
+      },
+      {
+        "name": "Half Conf",
+        "type": "half"
+      },
+      {
+        "name": "Half Para",
+        "type": "half"
+      },
+      {
+        "name": "Half Decel",
+        "type": "half"
+      },
+      {
+        "name": "Immune to Bang",
+        "type": "immune"
+      },
+      {
+        "name": "Immune to Poison",
+        "type": "immune"
+      },
+      {
+        "name": "Immune to 130",
+        "type": "immune"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Killer Ape",
+    "family": "Nature",
+    "rank": "C",
+    "level": 18,
+    "max_stats": {
+      "hp": 104,
+      "mp": 20,
+      "atk": 93,
+      "def": 91,
+      "agi": 20,
+      "wis": 41
+    },
+    "skills": [
+      {
+        "name": "Samurai"
+      },
+      {
+        "name": "Agi I"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Hit Squad"
+      },
+      {
+        "name": "Hope Hitter"
+      },
+      {
+        "name": "Sudden Tension"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs 130",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Decel",
+        "type": "weak"
+      },
+      {
+        "name": "Half Bang",
+        "type": "half"
+      },
+      {
+        "name": "Half Para",
+        "type": "half"
+      },
+      {
+        "name": "Half Dim",
+        "type": "half"
+      },
+      {
+        "name": "Immune to Strike",
+        "type": "immune"
+      },
+      {
+        "name": "Immune to S253",
+        "type": "immune"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Ey",
+    "family": "Beast",
+    "rank": "B",
+    "level": 20,
+    "max_stats": {
+      "hp": 206,
+      "mp": 20,
+      "atk": 144,
+      "def": 51,
+      "agi": 41,
+      "wis": 12
+    },
+    "skills": [
+      {
+        "name": "Animal"
+      },
+      {
+        "name": "Atk I"
+      },
+      {
+        "name": "Fool Guard"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Mega 1-2 Atk"
+      },
+      {
+        "name": "T117 Break"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Crack",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Sleep",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Sag",
+        "type": "weak"
+      },
+      {
+        "name": "Half Frizz",
+        "type": "half"
+      },
+      {
+        "name": "Half Whack",
+        "type": "half"
+      },
+      {
+        "name": "Half Conf",
+        "type": "half"
+      },
+      {
+        "name": "Half Para",
+        "type": "half"
+      },
+      {
+        "name": "Half Decel",
+        "type": "half"
+      },
+      {
+        "name": "Immune to Bang",
+        "type": "immune"
+      },
+      {
+        "name": "Immune to 130",
+        "type": "immune"
+      },
+      {
+        "name": "Immune to Strike",
+        "type": "immune"
+      }
+    ]
+  }
+]
