@@ -1863,7 +1863,8 @@
         "type": "immune"
       }
     ]
-  },{
+  },
+  {
     "id": 30,
     "name": "Dragonthorn",
     "family": "Dragon",
@@ -1930,6 +1931,71 @@
   },
   {
     "id": 31,
+    "name": "Capsichum",
+    "family": "Nature",
+    "rank": "F",
+    "level": 2,
+    "max_stats": {
+      "hp": 27,
+      "mp": 21,
+      "atk": 19,
+      "def": 7,
+      "agi": 18,
+      "wis": 18
+    },
+    "skills": [
+      {
+        "name": "Jamming"
+      },
+      {
+        "name": "Wis I"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Rabble Rouser"
+      },
+      {
+        "name": "Slashing Seal Break"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Frizz",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs 130",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Decel",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Sizz",
+        "type": "weak"
+      },
+      {
+        "name": "Half Bang",
+        "type": "half"
+      },
+      {
+        "name": "Half Para",
+        "type": "half"
+      },
+      {
+        "name": "Half Dim",
+        "type": "half"
+      },
+      {
+        "name": "Immune to Sleep",
+        "type": "immune"
+      }
+    ]
+  },
+  {
+    "id": 32,
     "name": "Sabrecat",
     "family": "Nature",
     "rank": "C",
@@ -1993,7 +2059,7 @@
     ]
   },
   {
-    "id": 32,
+    "id": 33,
     "name": "Mortoad",
     "family": "Beast",
     "rank": "C",
@@ -2073,7 +2139,7 @@
     ]
   },
   {
-    "id": 33,
+    "id": 34,
     "name": "Killer Ape",
     "family": "Nature",
     "rank": "C",
@@ -2137,7 +2203,7 @@
     ]
   },
   {
-    "id": 34,
+    "id": 35,
     "name": "Ey",
     "family": "Beast",
     "rank": "B",
