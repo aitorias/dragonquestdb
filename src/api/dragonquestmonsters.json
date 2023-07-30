@@ -1936,12 +1936,12 @@
     "rank": "F",
     "level": 2,
     "max_stats": {
-      "hp": 27,
-      "mp": 21,
-      "atk": 19,
-      "def": 7,
-      "agi": 18,
-      "wis": 18
+      "hp": 32,
+      "mp": 25,
+      "atk": 23,
+      "def": 8,
+      "agi": 21,
+      "wis": 21
     },
     "skills": [
       {
@@ -1996,6 +1996,59 @@
   },
   {
     "id": 32,
+    "name": "Funghoul",
+    "family": "Undead",
+    "rank": "F",
+    "level": 2,
+    "max_stats": {
+      "hp": 24,
+      "mp": 8,
+      "atk": 22,
+      "def": 8,
+      "agi": 13,
+      "wis": 18
+    },
+    "skills": [
+      {
+        "name": "Undead"
+      },
+      {
+        "name": "Wis I"
+      }
+    ],
+    "traits": [
+      {
+        "name": "Conf Touch"
+      },
+      {
+        "name": "Poison Break"
+      }
+    ],
+    "resistances": [
+      {
+        "name": "Weak vs Frizz",
+        "type": "weak"
+      },
+      {
+        "name": "Weak vs Dim",
+        "type": "weak"
+      },
+      {
+        "name": "Half Zam",
+        "type": "half"
+      },
+      {
+        "name": "Half Sap",
+        "type": "half"
+      },
+      {
+        "name": "Immune to Poison",
+        "type": "immune"
+      }
+    ]
+  },
+  {
+    "id": 33,
     "name": "Sabrecat",
     "family": "Nature",
     "rank": "C",
@@ -2059,7 +2112,7 @@
     ]
   },
   {
-    "id": 33,
+    "id": 34,
     "name": "Mortoad",
     "family": "Beast",
     "rank": "C",
@@ -2139,7 +2192,7 @@
     ]
   },
   {
-    "id": 34,
+    "id": 35,
     "name": "Killer Ape",
     "family": "Nature",
     "rank": "C",
@@ -2203,8 +2256,8 @@
     ]
   },
   {
-    "id": 35,
-    "name": "Ey",
+    "id": 36,
+    "name": "Eyevory Tusk-tusk",
     "family": "Beast",
     "rank": "B",
     "level": 20,
